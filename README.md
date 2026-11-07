@@ -1,6 +1,6 @@
 # LLD Practice Platfoom
 
-A small end-to-end practice tool for Low-Level Design: choose a problem,
+A small end-to-end practice tool for Low-Level Design: choose a problem
 write a structured design, submit it, and get AI-generated, evidence-cited
 feedback. Attempts persist so a learner can retry and track improvement.
 
