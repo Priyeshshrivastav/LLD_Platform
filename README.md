@@ -1,4 +1,4 @@
-# LLD Practice Platfoom
+# LLD Practice Platform
 
 A small end-to-end practice tool for Low-Level Design: choose a problem
 write a structured design, submit it, and get AI-generated, evidence-cited
