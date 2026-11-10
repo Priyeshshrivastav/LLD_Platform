@@ -2,7 +2,7 @@
 
 A small end-to-end practice tool for Low-Level Design: choose a problem
 write a structured design, submit it, and get AI-generated, evidence-cited
-feedback. Attempts persist so a learner can retry and track improvement.
+feedback. Attempts persist so a learner can retry and track improvement
 
 See [`DESIGN.md`](./DESIGN.md) for the domain model, evaluation approach,
 and the two extensibility "Change Tests." See [`AI_USAGE.md`](./AI_USAGE.md)
